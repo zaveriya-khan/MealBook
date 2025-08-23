@@ -13,15 +13,3 @@ Users can browse a list of recipes and view detailed ingredients & cooking instr
 - 🎨 Clean modern Material 3 design  
 
 ---
-
-## 📂 Project Structure
-
-lib/
-└─ main.dart # Entry point of the app
-assets/
-└─ images/ # Recipe images
-├─ spaghetti_carbonara.png
-├─ avocado_toast.png
-└─ classic_pancakes.png
-
----
