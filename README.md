@@ -1,16 +1,27 @@
-# recipe_app
+# 🍳 MealBook
 
-A new Flutter project.
+A simple **Flutter recipe book app** with a clean UI and navigation using **go_router**.  
+Users can browse a list of recipes and view detailed ingredients & cooking instructions.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📖 Recipe list with images and titles  
+- 🥬 Detailed recipe view with ingredients & instructions  
+- 🔗 Navigation handled by **go_router**  
+- 🎨 Clean modern Material 3 design  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📂 Project Structure
+
+lib/
+└─ main.dart # Entry point of the app
+assets/
+└─ images/ # Recipe images
+├─ spaghetti_carbonara.png
+├─ avocado_toast.png
+└─ classic_pancakes.png
+
+---
